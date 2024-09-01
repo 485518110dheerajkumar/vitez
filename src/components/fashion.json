@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "category": "fashion",
+      "title": "Card 1",
+      "description": "This is the description for card 1.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/x/b/1/11-501-45-aeonik-beige-original-imah3j4k4zzedbzj.jpeg?q=70"
+    },
+    {
+      "id": 2,
+      "category": "fashion",
+      "title": "Card 2",
+      "description": "This is the description for card 2.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/y/p/o/12-sl26-sl28-46-amico-brown-original-imahf4sgrj6xmjwz.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "category": "fashion",
+      "title": "Card 3",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/y/f/d/sl01-10-amico-black-original-imafhxthct3t65wv-bb.jpeg?q=70"
+    },
+    {
+      "id": 4,
+      "category": "fashion",
+      "title": "Card 4",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/9/l/w/32-bi-trouser-combraided-original-imagqtjmgrqzuhsz.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "category": "Fashion",
+      "title": "Card 5",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/0/t/1/m-mens-staylist-chex-strecheble-shirt-sti-original-imah3nudnxgc7nwh.jpeg?q=70"
+    },
+    {
+      "id": 6,
+      "category": "Fashion",
+      "title": "Card 6",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/r/c/4/s-jawan-one-nb-nicky-boy-original-imahfyq24y3hamvg.jpeg?q=70"
+    },
+    {
+      "id": 7,
+      "category": "Fashion",
+      "title": "Card 7",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/a/e/2/xxl-ts-006-nicequeen-original-imahf7fy55vzhwhf.jpeg?q=70"
+    },
+    {
+      "id": 8,
+      "category": "Fashion",
+      "title": "Card 8",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/z/a/d/-original-imagu22awgvehh5f.jpeg?q=70"
+    },
+    {
+      "id": 9,
+      "category": "Fashion",
+      "title": "Card 9",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/3/e/h/free-ff132-flutefashion-unstitched-original-imahfqmspx39zswb.jpeg?q=70"
+    },
+    {
+      "id": 10,
+      "category": "fashion",
+      "title": "Card 10",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/6/2/g/xl-mntnw-4024-montrez-original-imafg82gbevyfwwz-bb.jpeg?q=70"
+    }
+  ]
+  

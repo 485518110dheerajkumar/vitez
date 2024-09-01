@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "category": "electronic",
+      "title": "Card 1",
+      "description": "This is the description for card 1.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/l/u/-original-imah2fjd7wfd9ksh.jpeg?q=70"
+    },
+    {
+      "id": 2,
+      "category": "electronic",
+      "title": "Card 2",
+      "description": "This is the description for card 2.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "category": "electronic",
+      "title": "Card 3",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/3/4/-original-imahyytukhkky5ew.jpeg?q=70"
+    },
+    {
+      "id": 4,
+      "category": "electronic",
+      "title": "Card 4",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/b/n/-original-imahyuhfzvybhaat.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "category": "electronic",
+      "title": "Card 5",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70"
+    },
+    {
+      "id": 6,
+      "category": "electronic",
+      "title": "Card 6",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/n/o/n/-original-imagu2rtzvqhrgpa.jpeg?q=70"
+    },
+    {
+      "id": 7,
+      "category": "electronic",
+      "title": "Card 7",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/150/150/xif0q/webcam/y/x/u/-original-imagmmejbvfhcujt.jpeg?q=70"
+    },
+    {
+      "id": 8,
+      "category": "electronic",
+      "title": "Card 8",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/150/150/xif0q/mouse/7/k/m/ergonomic-mouse-optical-sensor-1200-dpi-jainbroes-original-imaggeyjwgkhdwdu.jpeg?q=70"
+    },
+    {
+      "id": 9,
+      "category": "electronic",
+      "title": "Card 9",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/200/200/kpsnzww0/external-hard-drive/ssd/t/9/7/portable-ssd-sdssde30-1t00-g25-sandisk-original-imag3xx564jxpgrb.jpeg?q=70 "
+    },
+    {
+      "id": 10,
+      "category": "electronic",
+      "title": "Card 10",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://rukminim2.flixcart.com/image/200/200/xif0q/monitor/z/d/8/va2209-h-full-hd-21-5-2022-va2209-h-viewsonic-original-imagqhnwjfrdj2h7.jpeg?q=70 "
+    }
+  ]
